@@ -1,5 +1,10 @@
 # Vala bug on throw signature when generating vapi files and a class has the same namespace name
 
+## Tested versions
+
+- Vala 0.48.18
+- Vala 0.52.4
+
 ## Reproducing
 
 ```bash
