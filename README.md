@@ -7,7 +7,7 @@
 
 ## Reproducing
 
-```bash
+```console
 meson build
 meson compile -C build
 ```
